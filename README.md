@@ -11,8 +11,15 @@
 </p>
 
 ---
+<p align="center">
+  Soy de Buenos Aires, Argentina. Actualmente estoy finalizando mi formación en Henry, cómo Full Stack Developer.
+  <br>
+Me apasiona construir soluciones eficientes, escalables y centradas en la experiencia del usuario. Poseo una fuerte orientación al aprendizaje continuo y al trabajo en equipo.
+Busco seguir creciendo profesionalmente y aportar valor en proyectos reales, donde pueda seguir aprendiendo y aplicar mis conocimientos para resolver desafíos del mundo real.
+</p>
 
-### 🚀 Proyectos destacados
+---
+### 🚀 Te invito a ver mis Proyectos destacados
 
 Aquí te presento algunos de mis principales repositorios:
 
@@ -24,17 +31,26 @@ Aquí te presento algunos de mis principales repositorios:
 
 #### 📌 [Modulo2-Henry](https://github.com/LeanGL97/Modulo2-Henry)  
 🎬 *Cinema With Friends* es una cartelera de películas donde los usuarios pueden recomendar y descubrir películas. Utiliza HTML, CSS, JavaScript y MongoDB.
+<p align="center">
+  <img src="https://imgur.com/z6h8SaK.png" alt="Logo Modulo 2" width="200px" />
+</p>
 
 ---
 
 #### 📌 [Modulo3-Henry](https://github.com/LeanGL97/Modulo3-Henry)  
 💈 *Alpha Wolf* es una plataforma para una peluquería, desarrollada con Vite, TypeScript, CSS y PostgreSQL. Permite registrar usuarios y pedir turnos online.
+<p align="center">
+  <img src="https://imgur.com/eH1za6j.png" alt="Logo Modulo 3" width="200px" />
+</p>
 
 ---
 
 #### 📌 [Modulo4-Henry](https://github.com/LeanGL97/Modulo4-Henry)  
 🛍️ *Gianouis Store* es una plataforma Ecommerce responsive. Usé Next.js, TypeScript y Tailwind CSS con una base de datos en PostgreSQL.  
 🔗 [Ver proyecto en Vercel](https://front-test-m4.vercel.app)
+<p align="center">
+  <img src="https://imgur.com/4onP0jx.png" alt="Logo Modulo 4" width="200px" />
+</p>
 
 ---
 
@@ -42,11 +58,17 @@ Aquí te presento algunos de mis principales repositorios:
 🔧 *TecniClick* es una plataforma que conecta clientes con profesionales del servicio técnico. Fullstack con Next.js, TailwindCSS, Nest.js y PostgreSQL.  
 🔗 [Frontend en Vercel](https://tecniclickfrontend.vercel.app/)  
 📘 [Documentación API - Swagger](https://tecniclick-backend.onrender.com/api#/)
+<p align="center">
+  <img src="https://imgur.com/DiFK92X.png" alt="Logo Modulo 5" width="200px" />
+</p>
 
 ---
 
 #### 📌 [PaginaWebArq](https://github.com/LeanGL97/PaginaWebArq)  
 🏛️ *TM Arquitectura* es un proyecto personal en desarrollo, creado con React, Vite, TypeScript, CSS y Bootstrap. Página profesional para una arquitecta.
+<p align="center">
+  <img src="https://imgur.com/kv4jfe6.png" alt="Logo Modulo 6" width="200px" />
+</p>
 
 ---
 
