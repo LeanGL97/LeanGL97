@@ -89,7 +89,7 @@ Aquí te presento algunos de mis principales repositorios:
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/leandro-gianelli/)
+- 💼 [LinkedIn](www.linkedin.com/in/lean-gianelli)
 - 📧 lean.louis1997@gmail.com
 
 ---
