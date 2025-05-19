@@ -12,7 +12,7 @@
 
 ---
 <p align="center">
-  Soy de Buenos Aires, Argentina. Actualmente estoy finalizando mi formación en Henry, cómo Full Stack Developer.
+  Soy de Buenos Aires, Argentina. Finalicé a principios de mayo 2025 mi formación en Henry, cómo Full Stack Developer.
   <br>
 Me apasiona construir soluciones eficientes, escalables y centradas en la experiencia del usuario. Poseo una fuerte orientación al aprendizaje continuo y al trabajo en equipo.
 Busco seguir creciendo profesionalmente y aportar valor en proyectos reales, donde pueda seguir aprendiendo y aplicar mis conocimientos para resolver desafíos del mundo real.
